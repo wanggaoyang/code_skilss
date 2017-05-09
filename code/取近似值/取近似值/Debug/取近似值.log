@@ -1,0 +1,4 @@
+﻿  取近似值.cpp
+c:\users\joeali\desktop\题库\取近似值\取近似值\取近似值.cpp(10): warning C4305: “初始化”: 从“double”到“float”截断
+  取近似值.vcxproj -> C:\Users\JoeAli\Desktop\题库\取近似值\Debug\取近似值.exe
+  取近似值.vcxproj -> C:\Users\JoeAli\Desktop\题库\取近似值\Debug\取近似值.pdb (Full PDB)
